@@ -1,0 +1,11 @@
+.DS_Store
+arcs/*
+logs/*
+markers/*
+satellites/*
+personal/.DS_Store
+personal/scripts/.DS_Store
+personal/images/*
+personal/scripts/temp/*
+personal/output/*
+stars/tycho-2.dat
