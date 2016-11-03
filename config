@@ -1,0 +1,28 @@
+[sun]
+"Sun"
+color={0,0,0}
+shade=100
+###########################################
+[earth]
+"Earth in Realtime"
+map=earth.jpg
+night_map=night_map.tif
+cloud_map=clouds_2048.jpg
+cloud_threshold=45
+cloud_gamma=.75
+bump_map=bump_map.png
+bump_scale=2
+specular_map=specular_map.png
+###########################################
+marker_file=earth
+marker_file=quake
+marker_file=volcano
+marker_file=storm arc_file=storm
+marker_file=label
+###########################################
+satellite_file=iss
+###########################################
+[moon]
+"Moon"
+map=moon.jpg
+###########################################
