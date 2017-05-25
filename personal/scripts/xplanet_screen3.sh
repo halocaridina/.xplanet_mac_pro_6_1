@@ -59,7 +59,7 @@ OUTPUT=Screen${SCREEN}-${SCREEN_GEO}-$(date +"%Y%m%d.%H.%M.%S").png
 	/usr/local/bin/xplanet \
 		-searchdir=${XPLANET_HOME} \
 		-config=config_screen_jupiter \
-		-labelpos=+5-5 \
+		-labelpos=-5-5 \
 		-date_format="%D at %r" \
 		-color=green2 \
 		-font=/Users/srsantos/Library/Fonts/PragmataPro.ttf \
